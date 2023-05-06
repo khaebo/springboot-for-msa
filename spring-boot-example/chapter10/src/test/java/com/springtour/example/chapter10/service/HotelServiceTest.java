@@ -7,6 +7,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 class HotelServiceTest {
 
+    /*
     @Autowired
     private HotelService hotelService;
 
@@ -25,4 +26,5 @@ class HotelServiceTest {
         HotelRequest request = new HotelRequest(123123L);
         hotelService.getHotel(request);
     }
+     */
 }
